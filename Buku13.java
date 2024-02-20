@@ -31,3 +31,4 @@ public class Buku13 {
         harga = hrg;
     }
 }
+//sekian
